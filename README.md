@@ -9,7 +9,7 @@ In this way u have to play the game and put the mines.
 Once the mines u have put matches with the mines which were set at random location at the starting of the game, it will show that you have won the game.
 You have to enter the input like:
   The rows are numbered numerically and columns alphabetically
-  So, to give a input, type <column alphabet><f (if you want to insert mine at that location/ else don't type anything)><row number>
+  So, to give a input, type <column alphabet><row number><f (if you want to insert mine at that location/ else don't type anything)>
   
   
   
